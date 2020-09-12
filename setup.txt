@@ -1,0 +1,21 @@
+# WinAppDriver docs e repo
+# https://docs.microsoft.com/en-us/windows/uwp/get-started/enable-your-device-for-development
+
+# Baixar  client da api
+# https://github.com/microsoft/WinAppDriver/releases/download/v1.1/WindowsApplicationDriver.msi
+
+# Ativar Modo desenvolvedor
+# https://docs.microsoft.com/en-us/windows/uwp/get-started/enable-your-device-for-development
+
+# UiSpy
+# https://github.com/2gis/Winium.Cruciatus/tree/master/tools/UISpy
+
+# Dependencias
+# pip install Appium-Python-Client
+# https://pypi.org/project/Appium-Python-Client/
+
+# Interesting issue
+# https://github.com/Microsoft/WinAppDriver/issues/194
+
+# Accessibility insights
+# https://aka.ms/accessibilityinsights-windows/download

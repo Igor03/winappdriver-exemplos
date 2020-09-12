@@ -17,5 +17,5 @@ if __name__ == '__main__':
     bot.soma_positivo(1, 2)
 
     bot = FortineBot()
-    bot.conectar_vpn(4, '106189', 'epm@4976')
+    bot.conectar_vpn(4, 'user', 'password')
 
